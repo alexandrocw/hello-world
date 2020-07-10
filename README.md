@@ -1,3 +1,3 @@
 # hello-world
 
-I'm a human
+Simple hello world program
